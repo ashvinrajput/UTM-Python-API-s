@@ -1,0 +1,4 @@
+Summary 
+
+1. As you go further from the equator the temperature decreases
+2. 2. Humidity, wind and cloudiness have very low correlation to latitude
